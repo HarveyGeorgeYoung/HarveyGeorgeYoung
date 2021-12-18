@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HarveyGeorgeYoung
+- 👀 I’m interested in the software development lifecycle
+- 🌱 I’m currently learning C# while undertaking a placement year at Audacia Consulting.
+- 📫 Reach me at: harveygyoung@outlook.com
